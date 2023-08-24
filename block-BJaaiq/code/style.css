@@ -2,18 +2,15 @@ body{
     background-color: rgb(220, 160, 140);
     padding: 30px 30px;
 }
-div{
-    padding: 40px 20px;
-}
-h2{
-    font-size: 32px;
+blockquote{
+    font-size: 40px;
     font-style: italic;
     font-weight: 700;
-    text-align: center;
+   
 }
-p{
-    font-size: 25px;
+cite{
+    font-size: 30px;
     font-style: italic;
     font-weight: 400;
-    text-align: center;
+   padding-left: 38px;
 }
