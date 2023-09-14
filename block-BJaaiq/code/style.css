@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(220, 160, 140);
+    padding: 30px 30px;
+}
+blockquote{
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700;
+   
+}
+cite{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 400;
+   padding-left: 38px;
+}
